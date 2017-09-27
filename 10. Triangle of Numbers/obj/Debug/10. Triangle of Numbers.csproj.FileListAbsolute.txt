@@ -1,0 +1,5 @@
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb
