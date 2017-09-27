@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -406,3 +407,13 @@ style='mso-spacerun:yes'>&nbsp;</span>Repo made for exercises <o:p></o:p></span>
 </body>
 
 </html>
+=======
+# Homework
+Repo made for exercises
+
+
+
+
+
+
+>>>>>>> 19a0af0102144e0ca6c6f2e310f10238e2ddb01e
