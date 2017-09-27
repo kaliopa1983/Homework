@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -16,17 +15,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Danail</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Danail</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2017-09-27T21:53:00Z</o:Created>
-  <o:LastSaved>2017-09-27T21:53:00Z</o:LastSaved>
+  <o:LastSaved>2017-09-27T22:03:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>4</o:Words>
-  <o:Characters>27</o:Characters>
+  <o:Characters>23</o:Characters>
   <o:Company>Grizli777</o:Company>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>30</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>26</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -386,7 +385,7 @@ div.WordSection1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2050"/>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -400,7 +399,7 @@ div.WordSection1
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><span
 style='mso-spacerun:yes'>&nbsp;</span>Repo made for exercises <o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>1234<o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
