@@ -1,0 +1,5 @@
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\13. Game of Numbers\bin\Debug\_13.Game_of_Numbers.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\13. Game of Numbers\obj\Debug\_13.Game_of_Numbers.pdb

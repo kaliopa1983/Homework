@@ -1,0 +1,6 @@
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\12. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb
